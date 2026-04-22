@@ -3,7 +3,7 @@
 Analysis code and figure-generation scripts for a severity-based hepatic-metabolic-glycemic framework linking hepatic steatosis, metabolic burden, glycemic status, and multi-organ risk in a hospital health-check cohort.
 
 
-Figure Plot results now can be accessed through the link: https://colab.research.google.com/drive/17nYoYlpBzMLzMLEjvYd_fbxjyxGdp5oD?usp=sharing
+Figure Plot results will be able to access through the link: https://colab.research.google.com/drive
 
 
 # All rights are reserved by the Author groups.
